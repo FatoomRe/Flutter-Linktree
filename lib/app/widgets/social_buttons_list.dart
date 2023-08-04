@@ -33,6 +33,11 @@ class SocialButtonsList extends StatelessWidget {
           onTap: () => launchURL('instagram.com/fatoz_'),
         ),
         const SizedBox(height: 14),
+        // SocialButtonsItems(
+        //   title: 'Twitter',
+        //   image: 'Twitter.png',
+        //   onTap: () => launchURL('twitter.com/FatoomRe'),
+        // ),
       ],
     );
   }
