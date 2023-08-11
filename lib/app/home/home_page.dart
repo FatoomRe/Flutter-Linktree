@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      backgroundColor: const Color(0xff072227),
+      backgroundColor:const Color.fromARGB(255, 0, 0, 0),
       body: Align(
         alignment: Alignment.topCenter,
         child: ConstrainedBox(

@@ -17,7 +17,7 @@ class Footer extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           Text(
-            'Created by @FatoomRe™',
+            'Created by @FatoomRe',
             style: GoogleFonts.montserrat(
               color: const Color(0xffEBE9E9),
               fontSize: 16,

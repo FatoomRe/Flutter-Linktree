@@ -15,19 +15,21 @@ class Header extends StatelessWidget {
         children: [
           ClipRRect(
             borderRadius: BorderRadius.circular(16),
-            child: Image.asset(
-              'assets/header-background.png',
-              fit: BoxFit.cover,
+            child: Opacity( opacity: 0.5,
+              child: Image.asset(
+                'assets/4.png',
+                fit: BoxFit.cover,
+              ),
             ),
           ),
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              const SizedBox(height: 80),
+              const SizedBox(height: 120),
               SizedBox(
-                height: 127,
-                width: 127,
+                height: 170,
+                width: 170,
                 child: CircleAvatar(
                   radius: 50,
                   backgroundColor: const Color(0xff4361EE),
