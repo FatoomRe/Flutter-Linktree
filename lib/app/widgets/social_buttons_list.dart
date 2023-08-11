@@ -33,7 +33,7 @@ class SocialButtonsList extends StatelessWidget {
         SocialButtonsItems(
           title: 'LinkedIn',
           image: 'linkedin.png',
-          onTap: () => launchURL('www.linkedin.com/in/fatimah-alabbas-ab9513237'),
+          onTap: () => launchURL('linkedin.com/in/fatimah-alabbas-ab9513237'),
         ),
         //----------------------------------------------------------------
         const SizedBox(height: 14),
