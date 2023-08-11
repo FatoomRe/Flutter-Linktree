@@ -1,3 +1,3 @@
 # Linktree
 
-https://github.com/FatoomRe/Flutter-Linktree/assets/112693194/a178bba3-247f-4de7-a7c4-2e7ff77d46df
+https://github.com/FatoomRe/Flutter-Linktree/assets/112693194/8ceacc72-ad78-4fd2-95c6-607d1f46ddd3
